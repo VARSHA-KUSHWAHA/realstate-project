@@ -55,20 +55,26 @@ export default function UserDashboard() {
       {
         user: "Anil Kumar",
         comment: "Great experience! Good Price",
-        rating: 5,
+        rating: 4,
         star: "★ ★ ★ ★ ☆",
       },
       {
         user: "Yogesh Tailor",
         comment: "Great experience! Good Price",
-        rating: 5,
-        star: "★ ★ ★ ★ ☆",
+        rating: 4,
+        star: "★ ★ ★ ★ ☆  ",
       },
       {
         user: "Pravleen Kaur",
         comment: "Very professional!",
         rating: 4,
         star: "★ ★ ★ ★ ☆",
+      },
+      {
+        user: "Varsha Kushwaha",
+        comment: "Very professional!",
+        rating: 5,
+        star: "★ ★ ★ ★ ★",
       },
     ],
     facilities: [
